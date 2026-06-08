@@ -137,5 +137,26 @@ main {
   main { padding: 2rem 1.5rem; }
 
   .card-inner { width: 100%; }
+
+  .img-wrap {
+    margin-bottom: 0.75rem;
+  }
+
+  .img-wrap img {
+    width: 100%;
+    height: auto;
+  }
+
+  .overlay {
+    position: static;
+    inset: auto;
+    opacity: 1;
+    margin-top: -1px;
+    padding: 1rem 0.9rem;
+  }
+
+  .overlay p {
+    font-size: 0.8rem;
+  }
 }
 
