@@ -120,6 +120,11 @@ main {
   color: #9aaa96;
   margin-bottom: 0.4rem;
 }
+.pub {
+  font-size: 1rem;
+  color: #9aaa96;
+  margin-bottom: 0.4rem;
+}
 
 @media (max-width: 600px) {
   body { flex-direction: column; }
